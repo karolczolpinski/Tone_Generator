@@ -1,1 +1,4 @@
 .DS_Store
+tone_generator
+tone.wav
+*.o
